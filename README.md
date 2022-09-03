@@ -1,8 +1,6 @@
 # lit-clock
 
-(https://user-images.githubusercontent.com/78578803/188272453-572cb5ca-d558-4f13-9f5c-3c673240aa76.png)
-
-<br><br>
+![ezcv logo](https://user-images.githubusercontent.com/78578803/188272453-572cb5ca-d558-4f13-9f5c-3c673240aa76.png)
 
 ##How to use: <br>
 
