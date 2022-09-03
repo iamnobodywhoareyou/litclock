@@ -13,7 +13,8 @@ function Update()
    title = "title"
    author = "author"
 
-   file = io.open('/times/times/'..now, "r")
+   path = io.popen("cd"):read()
+   file = io.open(path..'/times/times/'..now, "r")
    
    if file then
       content = file:read "*a"
