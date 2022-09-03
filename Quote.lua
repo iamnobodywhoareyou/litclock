@@ -1,6 +1,6 @@
 ﻿function Initialize()
-   html = dofile('/htmlEntities/src/htmlEntities.lua')
-   json = dofile('/dkjson.lua')
+   html = dofile('htmlEntities/src/htmlEntities.lua')
+   json = dofile('dkjson.lua')
 end -->Initialize
 
 function Update()
