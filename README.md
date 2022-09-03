@@ -2,7 +2,6 @@
 
 ![ezcv logo](https://user-images.githubusercontent.com/78578803/188273334-cde06378-3400-498d-8be6-99f2acf460a5.png)
 
-
 ## How to use: <br>
 
 Install Rainmeter from https://www.rainmeter.net/ <br>
@@ -24,5 +23,7 @@ and <br>
 https://github.com/LuaDist/dkjson <br>
 as well as borrowed some ideas from the Rainmeter Skin Ageo - <br>
 https://www.deviantart.com/apexxx-sensei/art/Ageo-788359446
+
+<br>The background in the picture is taken from https://unsplash.com/ <br>
 
 P.S. This is my very first project in Rainmeter as well as Lua so feel free to suggest an improvements! :)
