@@ -6,7 +6,7 @@
 
 Install Rainmeter from https://www.rainmeter.net/ <br>
 Download the code as a zip file <br>
-Extract the zip file and copy the contents to you Rainmeter/Skins/ folder <br>
+Extract the zip file and copy the contents to your Rainmeter/Skins/ folder <br>
 Extract the times.zip file <br>
 Go to rainmeter and load the litclock.ini file <br>
 
