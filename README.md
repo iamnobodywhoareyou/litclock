@@ -2,7 +2,7 @@
 
 ![ezcv logo](https://user-images.githubusercontent.com/78578803/188272453-572cb5ca-d558-4f13-9f5c-3c673240aa76.png)
 
-##How to use: <br>
+## How to use: <br>
 
 Install Rainmeter from https://www.rainmeter.net/ <br>
 Download the code as a zip file <br>
