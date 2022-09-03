@@ -13,6 +13,8 @@ Go to rainmeter and load the litclock.ini file <br>
 If the fonts seems too large/small click the 'Edit' option in Rainmeter and increase/desrease the 'Scale' variable and see the changes. <br>
 That's it. Enjoy!
 
+## References:
+
 This project is inspired by https://github.com/JohannesNE/literature-clock <br>
 
 I have taken help from <br>
