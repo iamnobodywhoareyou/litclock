@@ -21,7 +21,7 @@ I have taken help from <br>
 https://github.com/TiagoDanin/htmlEntities-for-lua <br>
 and <br>
 https://github.com/LuaDist/dkjson <br>
-as well as borrowed some ideas <br> 
-from the Rainmeter Skin Ageo - https://www.deviantart.com/apexxx-sensei/art/Ageo-788359446
+as well as borrowed some ideas from the Rainmeter Skin Ageo - <br>
+https://www.deviantart.com/apexxx-sensei/art/Ageo-788359446
 
 P.S. This is my very first project in Rainmeter as well as Lua so feel free to suggest an improvements! :)
