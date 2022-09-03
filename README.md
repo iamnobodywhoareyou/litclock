@@ -10,7 +10,7 @@ Extract the zip file and copy the contents to you Rainmeter/Skins/ folder <br>
 Extract the times.zip file <br>
 Go to rainmeter and load the litclock.ini file <br>
 
-If the fonts seems too large/small click the 'Edit' option in Rainmeter and increase/desrease the 'Scale' variable and see the changes. <br>
+If the font seems too large/small click the 'Edit' option in Rainmeter and increase/desrease the 'Scale' variable and see the changes. <br>
 That's it. Enjoy!
 
 ## References:
