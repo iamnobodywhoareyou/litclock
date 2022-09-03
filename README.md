@@ -22,4 +22,4 @@ https://github.com/LuaDist/dkjson
 as well as borrowed some ideas 
 from the Rainmeter Skin Ageo - https://www.deviantart.com/apexxx-sensei/art/Ageo-788359446
 
-P.S. This is my very first project in Rainmeter as well as Lua so feel free to suggest an improvements! :)![Screenshot (2192)]
+P.S. This is my very first project in Rainmeter as well as Lua so feel free to suggest an improvements! :)
