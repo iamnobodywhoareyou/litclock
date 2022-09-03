@@ -1,6 +1,6 @@
 ﻿function Initialize()
-   html = dofile('C:/Users/Hp/Documents/Rainmeter/Skins/litclock/htmlEntities/src/htmlEntities.lua')
-   json = dofile('C:/Users/Hp/Documents/Rainmeter/Skins/litclock/dkjson.lua')
+   html = dofile('/htmlEntities/src/htmlEntities.lua')
+   json = dofile('/dkjson.lua')
 end -->Initialize
 
 function Update()
@@ -13,7 +13,7 @@ function Update()
    title = "title"
    author = "author"
 
-   file = io.open('C:/Users/Hp/Documents/Rainmeter/Skins/litclock/times/times/'..now, "r")
+   file = io.open('/times/times/'..now, "r")
    
    if file then
       content = file:read "*a"
