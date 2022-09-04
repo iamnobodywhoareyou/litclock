@@ -16,7 +16,7 @@ That's it. Enjoy! <br>
 
 This project is inspired by https://github.com/JohannesNE/literature-clock <br>
 
-I have taken help from as well as borrowed some ideas from <br>
+I have taken help and borrowed some ideas from <br>
 1. https://github.com/TiagoDanin/htmlEntities-for-lua <br>
 2. https://github.com/LuaDist/dkjson <br>
 3. https://www.deviantart.com/apexxx-sensei/art/Ageo-788359446 (another Rainmeter skin)
