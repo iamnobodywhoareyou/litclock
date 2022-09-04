@@ -5,12 +5,12 @@
 ## How to use: <br>
 
 Install Rainmeter from https://www.rainmeter.net/ <br>
-Download as a zip file <br>
+Download zip file <br>
 Extract the zip file and copy the contents to your Rainmeter/Skins/ folder <br>
 Go to rainmeter and load the litclock.ini file <br>
 
 If the font seems too large/small click the 'Edit' option in Rainmeter and increase/desrease the 'Scale' variable and see the changes. <br>
-That's it. Enjoy!
+That's it. Enjoy! <br>
 
 ## References:
 
