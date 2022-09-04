@@ -26,4 +26,4 @@ https://www.deviantart.com/apexxx-sensei/art/Ageo-788359446
 <br>The setting my background I have used the https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter Rainmeter skin<br>
 <br>The picture is taken from https://unsplash.com/<br>
 
-P.S. This is my very first project in Rainmeter as well as Lua so feel free to suggest an improvements! :)
+P.S. This is my very first project for Rainmeter as well as in Lua so feel free to suggest an improvements! :)
