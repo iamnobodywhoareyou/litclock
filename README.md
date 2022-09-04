@@ -8,7 +8,6 @@ Install Rainmeter from https://www.rainmeter.net/ <br>
 #### Important - The releases contains one more folder (which you can also find here - https://github.com/JohannesNE/literature-clock/tree/master/docs/times) which is not uploaded to this repository. So do not download the code from the repo as a zip file. Download the zip file from releases ONLY. <br>
 Download the code as a zip file from the releases <br>
 Extract the zip file and copy the contents to your Rainmeter/Skins/ folder <br>
-Extract the times.zip file <br>
 Go to rainmeter and load the litclock.ini file <br>
 
 If the font seems too large/small click the 'Edit' option in Rainmeter and increase/desrease the 'Scale' variable and see the changes. <br>
