@@ -16,14 +16,13 @@ That's it. Enjoy! <br>
 
 This project is inspired by https://github.com/JohannesNE/literature-clock <br>
 
-I have taken help from <br>
-https://github.com/TiagoDanin/htmlEntities-for-lua <br>
-and <br>
-https://github.com/LuaDist/dkjson <br>
-as well as borrowed some ideas from the Rainmeter Skin Ageo - <br>
-https://www.deviantart.com/apexxx-sensei/art/Ageo-788359446
+I have taken help from as well as borrowed some ideas from <br>
+1. https://github.com/TiagoDanin/htmlEntities-for-lua <br>
+2. https://github.com/LuaDist/dkjson <br>
+3. https://www.deviantart.com/apexxx-sensei/art/Ageo-788359446 (another Rainmeter skin)
 
-<br>The setting my background I have used the https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter Rainmeter skin<br>
-<br>The picture is taken from https://unsplash.com/<br>
+<br>For setting my background in the image above, I have used the https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter Rainmeter skin
+<br>The picture is taken from https://unsplash.com/
 
+<br>
 P.S. This is my very first project for Rainmeter as well as in Lua so feel free to suggest an improvements! :)
