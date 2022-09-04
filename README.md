@@ -21,7 +21,7 @@ I have taken help from as well as borrowed some ideas from <br>
 2. https://github.com/LuaDist/dkjson <br>
 3. https://www.deviantart.com/apexxx-sensei/art/Ageo-788359446 (another Rainmeter skin)
 
-<br>For setting my background in the image above, I have used the https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter
+<br>For setting my background in the image above, I have used https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter
 <br>The picture is taken from https://unsplash.com/
 
 <br>
