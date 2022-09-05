@@ -26,4 +26,4 @@ I have taken help and borrowed some resources from
 <br>The picture is taken from https://unsplash.com/
 
 <br>
-P.S. This is my very first project for Rainmeter as well as in Lua so feel free to suggest an improvements! :)
+P.S. This is my very first project for Rainmeter as well as in Lua so feel free to suggest any improvements! :)
