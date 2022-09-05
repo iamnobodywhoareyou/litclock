@@ -22,7 +22,7 @@ I have taken help and borrowed some resources from
 <br>3. Quotes icon, fonts and colours: <a href="https://www.deviantart.com/apexxx-sensei/art/Ageo-788359446" target="_blank">Ageo</a> (another Rainmeter skin)
 <br>4. Data: <a href="https://github.com/JohannesNE/literature-clock" target="_blank">Literature Clock - Github</a>
 
-<br>For setting my background in the image above, I have used https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter
+<br>For setting my background in the image above, I have used <a href = "https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter" target = "_blank">Random Wallpaper for Rainmeter</a>
 <br>The picture is taken from https://unsplash.com/
 
 <br>
