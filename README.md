@@ -2,14 +2,14 @@
 
 ![ezcv logo](https://user-images.githubusercontent.com/78578803/188273334-cde06378-3400-498d-8be6-99f2acf460a5.png)
 
-## How to use: <br>
+## How to use:
 
-Install Rainmeter from https://www.rainmeter.net/ <br>
-Download as a zip file <br>
-Extract the zip file and copy the contents to your Rainmeter/Skins/ folder <br>
-Go to rainmeter and load the litclock.ini file <br>
+<br>Install Rainmeter from https://www.rainmeter.net/
+<br>Download this code as a zip file
+<br>Extract the zip file and copy the contents to your Rainmeter/Skins/ folder
+<br>Go to rainmeter and load the litclock.ini file
 
-If the font seems too large/small click the 'Edit' option in Rainmeter and increase/desrease the 'Scale' variable and see the changes. <br>
+#### If the font seems too large/small click the 'Edit' option in Rainmeter and increase/desrease the 'Scale' variable and see the changes.
 That's it. Enjoy! <br>
 
 ## References:
