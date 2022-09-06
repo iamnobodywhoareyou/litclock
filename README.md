@@ -4,7 +4,7 @@
 
 ### Replace your boring digital clock with interesting quotes from literature that draw your attention while also telling you what time it is. 
 
-<br>
+<br> ---------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 
 ## How to use:
