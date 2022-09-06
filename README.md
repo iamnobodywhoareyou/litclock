@@ -16,7 +16,7 @@ That's it. Enjoy! <br>
 
 This project is inspired by: <a href="https://literature-clock.jenevoldsen.com/" target="_blank"><u>Literature Clock</u></a>
 
-I have taken help and borrowed some resources from
+I have taken help and borrowed some resources from:
 <br>1. Library to decode HTML encoded text: <a href="https://github.com/TiagoDanin/htmlEntities-for-lua" target="_blank"><u>htmlEntities</u></a>
 <br>2. Library to parse json files: <a href="https://github.com/LuaDist/dkjson" target="_blank"><u>dkjson</u></a>
 <br>3. Quotes icon, fonts and colours: <a href="https://www.deviantart.com/apexxx-sensei/art/Ageo-788359446" target="_blank"><u>Ageo</u></a> (another Rainmeter skin)
