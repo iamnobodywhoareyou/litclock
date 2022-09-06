@@ -2,10 +2,13 @@
 
 ![ezcv logo](https://user-images.githubusercontent.com/78578803/188273334-cde06378-3400-498d-8be6-99f2acf460a5.png)
 
-"The trouble is, you think you have time."<br>
--Buddha<br>
+### "The trouble is, you think you have time."<br>
+### -Buddha<br>
 
 ### Replace your boring digital clock with interesting quotes from literature that draw your attention while also telling you what time it is. 
+
+<br>
+<br>
 
 ## How to use:
 
