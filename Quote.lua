@@ -20,6 +20,7 @@ function Update()
          rand = math.random(1, #info)
       until(info[rand]["sfw"] == "yes")
       
+      quote_time_case = info[rand]["quote_time_case"]
       quote = info[rand]["quote_first"]..info[rand]["quote_time_case"]..info[rand]["quote_last"]
       author = info[rand]["title"]..", "..info[rand]["author"]
       
@@ -30,6 +31,7 @@ function Update()
       author = ""
    end
 
+   SKIN:Bang('!SetVariable', 'Time_Case', quote_time_case)
    SKIN:Bang('!SetOption', 'MeterQuote', 'Text', quote)
    SKIN:Bang('!SetOption', 'MeterAuthor', 'Text', author)
    
