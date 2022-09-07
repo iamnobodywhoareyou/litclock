@@ -1,6 +1,6 @@
 # lit-clock
 
-![ezcv logo](https://user-images.githubusercontent.com/78578803/188273334-cde06378-3400-498d-8be6-99f2acf460a5.png)
+![ezcv logo](https://user-images.githubusercontent.com/78578803/188951993-6c02c1af-7011-4e4f-80b0-6749071abd9d.png)
 
 ### Replace your boring digital clock with interesting quotes from literature that draw your attention while also telling you what time it is. 
 
@@ -29,6 +29,7 @@ I have taken help and borrowed some resources from:
 
 <br>For setting my background in the image above, I have used <a href = "https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter" target = "_blank"><u>Random Wallpaper for Rainmeter</u></a>
 <br>The picture is taken from <a href="https://unsplash.com/" target="_blank"><u>Unsplash</u></a> 
+
 
 <br>
 P.S. This is my very first project for Rainmeter as well as in Lua so feel free to suggest any improvements! :)
