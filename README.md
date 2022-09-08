@@ -1,6 +1,6 @@
 # lit-clock
 
-![ezcv logo](https://user-images.githubusercontent.com/78578803/189063486-f41bce0a-d8d8-47f7-802b-f1b88b164cf2.png)
+![GitHub Logo](https://user-images.githubusercontent.com/78578803/189063486-f41bce0a-d8d8-47f7-802b-f1b88b164cf2.png)
 
 
 
