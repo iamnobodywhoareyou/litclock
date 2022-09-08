@@ -1,6 +1,6 @@
 # lit-clock
 
-![ezcv logo] (https://user-images.githubusercontent.com/78578803/189062478-3cd79b2e-f8c1-4bd5-ba0a-fbfed4450bc4.png)
+![ezcv logo](https://user-images.githubusercontent.com/78578803/189062478-3cd79b2e-f8c1-4bd5-ba0a-fbfed4450bc4.png)
 
 
 ### Replace your boring digital clock with interesting quotes from literature that draw your attention while also telling you what time it is. 
