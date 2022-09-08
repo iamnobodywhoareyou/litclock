@@ -27,7 +27,8 @@ function Update()
       quote = html.decode(quote)
 
    else
-      quote = os.date('%H:%M')
+      quote_time_case = os.date('%H:%M')
+      quote = quote_time_case
       author = ""
    end
 
