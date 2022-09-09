@@ -1,6 +1,6 @@
 # lit-clock
 
-![GitHub Logo](https://user-images.githubusercontent.com/78578803/189063486-f41bce0a-d8d8-47f7-802b-f1b88b164cf2.png)
+![GitHub Logo](https://user-images.githubusercontent.com/78578803/189284611-0e6912bb-314f-4a47-bf92-c2237919a5c4.png)
 
 
 
