@@ -12,7 +12,7 @@
 ## How to use:
 
 <br>Install Rainmeter from <a href="https://www.rainmeter.net/" target="_blank"><u>here</u></a>
-<br>Download this code as a zip file
+<br>Download this github repo as a zip file
 <br>Extract the zip file and copy the contents to your Rainmeter/Skins/ folder
 <br>Go to rainmeter and load the litclock.ini file
 
