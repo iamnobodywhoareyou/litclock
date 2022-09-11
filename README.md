@@ -4,7 +4,7 @@
 
 
 
-### Replace your boring digital clock with interesting quotes from literature that draw your attention while also telling you what time it is. 
+### Replace your boring digital clock with interesting quotes from literature that draw your attention while also telling you what time it is. What's more, it also changes color based on your desktop background!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
