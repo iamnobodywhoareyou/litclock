@@ -26,7 +26,7 @@ This project is inspired by: <a href="https://literature-clock.jenevoldsen.com/"
 I have taken help and borrowed some resources from:
 <br>1. Library to decode HTML encoded text: <a href="https://github.com/TiagoDanin/htmlEntities-for-lua" target="_blank"><u>htmlEntities</u></a>
 <br>2. Library to parse json files: <a href="https://github.com/LuaDist/dkjson" target="_blank"><u>dkjson</u></a>
-<br>3. Library for dynamically changing font colors w.r.t. the background: <a href="https://github.com/socks-the-fox/Chameleon"> Chameleon (This a lovely plugin! I can't appreciate it enough) </a>
+<br>3. Library for dynamically changing font colors w.r.t. the background: <a href="https://github.com/socks-the-fox/Chameleon"> Chameleon </a> (This a lovely plugin! I can't appreciate it <b>enough<b>)
 <br>4. Quotes: <a href="https://github.com/JohannesNE/literature-clock" target="_blank"></u>Literature Clock - Github</u></a>
 
 
