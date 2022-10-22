@@ -6,7 +6,7 @@
 <br>Image taken from: <a href="https://unsplash.com/" target="_blank"><u>Unsplash</u></a> 
 
 
-### Replace your boring digital clock with interesting quotes from literature! <br> What's more, it also changes color based on your desktop background!
+### Replace your boring digital clock with interesting quotes from literature.. <br> What's more, it also changes color based on your desktop background!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
