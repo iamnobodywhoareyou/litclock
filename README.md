@@ -2,8 +2,8 @@
 
 ![GitHub Logo](https://user-images.githubusercontent.com/78578803/189535361-892cc08c-6bc2-4aa5-a068-58dd5b047f5d.png)
 
-<br>Rainmeter skin for background: <a href = "https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter" target = "_blank"><u>Random Wallpaper for Rainmeter</u></a>
-<br>Image taken from <a href="https://unsplash.com/" target="_blank"><u>Unsplash</u></a> 
+<br>Rainmeter skin to set background: <a href = "https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter" target = "_blank"><u>Random Wallpaper for Rainmeter</u></a>
+<br>Image taken from: <a href="https://unsplash.com/" target="_blank"><u>Unsplash</u></a> 
 
 
 ### Replace your boring digital clock with interesting quotes from literature that draw your attention while also telling you what time it is. What's more, it also changes color based on your desktop background!
