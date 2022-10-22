@@ -1,4 +1,4 @@
-# lit-clock
+# litclock
 
 ![GitHub Logo](https://user-images.githubusercontent.com/78578803/189535361-892cc08c-6bc2-4aa5-a068-58dd5b047f5d.png)
 
